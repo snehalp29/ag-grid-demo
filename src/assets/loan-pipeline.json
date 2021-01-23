@@ -1,0 +1,619 @@
+[
+    {
+        "deals": [
+            {
+                "dealName": "undesignated",
+                "dealType": "UND",
+                "statusType": "undesignated",
+                "scenarios": [
+                    {
+                        "scenarioName": "undesignated",
+                        "scenarioOfficialIndicator": "N",
+                        "loans": [
+                            {
+                                "freLoanId": 1,
+                                "loanAmt": 94,
+                                "interestRate": 18.06,
+                                "loanInterestRateStructureType": "floating",
+                                "firstPmtDueDate": "2020-11-06T00:53:22Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-04-24T11:28:39Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "c46d851a-c07a-4b03-ab05-e2c1ccc5a4d2",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Nicolas, Bergstrom and Block",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Denton",
+                                                "stateUspsCode": "TX",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 2,
+                                "loanAmt": 4,
+                                "interestRate": 16.13,
+                                "loanInterestRateStructureType": "hybrid",
+                                "firstPmtDueDate": "2020-04-10T23:56:41Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-07-15T05:59:51Z",
+                                "intentType": "HFI",
+                                "properties": [
+                                    {
+                                        "propertyId": "9ff16b7b-1fcd-4c2b-a1a9-ced0bdd943b5",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Renner-Walker",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Apache Junction",
+                                                "stateUspsCode": "AZ",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 3,
+                                "loanAmt": 59,
+                                "interestRate": 14.34,
+                                "loanInterestRateStructureType": "floating",
+                                "firstPmtDueDate": "2020-07-19T05:47:38Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "Y",
+                                "loanMandatoryFundingDatetime": "2020-03-18T15:58:49Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "e7c3d2d3-5d2f-4e9f-9415-fee8babf9984",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Braun-Mueller",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Santa Fe",
+                                                "stateUspsCode": "NM",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 4,
+                                "loanAmt": 47,
+                                "interestRate": 9.77,
+                                "loanInterestRateStructureType": "floating",
+                                "firstPmtDueDate": "2020-11-29T16:44:44Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "Y",
+                                "loanMandatoryFundingDatetime": "2020-05-03T02:01:00Z",
+                                "intentType": "HFI",
+                                "properties": [
+                                    {
+                                        "propertyId": "ba633064-0d42-4ea6-8b69-17d2becacf92",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Rutherford-Fisher",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Honolulu",
+                                                "stateUspsCode": "HI",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 5,
+                                "loanAmt": 72,
+                                "interestRate": 7.77,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2020-01-25T14:23:48Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "Y",
+                                "loanMandatoryFundingDatetime": "2020-03-12T15:46:58Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "26c83db5-72ac-429d-b8a9-16ab03a0e9ee",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Schaefer and Sons",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Fort Lauderdale",
+                                                "stateUspsCode": "FL",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 6,
+                                "loanAmt": 90,
+                                "interestRate": 15.45,
+                                "loanInterestRateStructureType": "floating",
+                                "firstPmtDueDate": "2020-09-20T23:39:12Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "Y",
+                                "loanMandatoryFundingDatetime": "2020-12-05T13:08:43Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "ed53dc20-c921-450c-ac0c-91c6ddb10680",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Hoppe Inc",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Springfield",
+                                                "stateUspsCode": "IL",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 7,
+                                "loanAmt": 41,
+                                "interestRate": 3.53,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2020-03-08T13:21:54Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-09-17T06:50:55Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "3f7d2d1b-f586-47a7-9a77-378540b32feb",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Nikolaus, Little and Waters",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Bloomington",
+                                                "stateUspsCode": "IN",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 8,
+                                "loanAmt": 90,
+                                "interestRate": 6.88,
+                                "loanInterestRateStructureType": "hybrid",
+                                "firstPmtDueDate": "2020-11-23T22:05:21Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "Y",
+                                "loanMandatoryFundingDatetime": "2020-07-28T03:03:44Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "67be2b55-127a-449e-ae24-52efc2d919b6",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Cruickshank-Beahan",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Washington",
+                                                "stateUspsCode": "DC",
+                                                "countyName": "Fairfax",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 9,
+                                "loanAmt": 52,
+                                "interestRate": 6.8,
+                                "loanInterestRateStructureType": "hybrid",
+                                "firstPmtDueDate": "2020-08-16T22:50:48Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-02-06T11:16:59Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "73df226b-3a1a-4890-8188-b28e6afc41c1",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Boyer, Wisozk and Gutkowski",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Nashville",
+                                                "stateUspsCode": "TN",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 10,
+                                "loanAmt": 11,
+                                "interestRate": 1.67,
+                                "loanInterestRateStructureType": "floating",
+                                "firstPmtDueDate": "2020-03-09T15:03:34Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-06-27T15:47:11Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "17b9ccb4-cc69-4e53-9678-2e70f2ad77f8",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Olson-Runolfsdottir",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Missoula",
+                                                "stateUspsCode": "MT",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 11,
+                                "loanAmt": 21,
+                                "interestRate": 11.15,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2020-11-19T04:23:15Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-05-30T00:35:01Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "c2b6ebbf-d17c-470b-baa0-21d911fe10b6",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Turner Group",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Chicago",
+                                                "stateUspsCode": "IL",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 12,
+                                "loanAmt": 96,
+                                "interestRate": 14.25,
+                                "loanInterestRateStructureType": "hybrid",
+                                "firstPmtDueDate": "2020-07-21T11:50:39Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-12-17T06:52:35Z",
+                                "intentType": "HFI",
+                                "properties": [
+                                    {
+                                        "propertyId": "1691c768-923c-40b0-8103-f69d452f9461",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Davis-Sipes",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Eugene",
+                                                "stateUspsCode": "OR",
+                                                "countyName": "Fairfax",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 13,
+                                "loanAmt": 56,
+                                "interestRate": 15.57,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2020-12-24T10:10:27Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-05-22T09:25:46Z",
+                                "intentType": "HFI",
+                                "properties": [
+                                    {
+                                        "propertyId": "c4049faa-ce81-4595-b7a0-0cc3e7b41272",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Tromp, Hyatt and Lakin",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Minneapolis",
+                                                "stateUspsCode": "MN",
+                                                "countyName": "Fairfax",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 14,
+                                "loanAmt": 83,
+                                "interestRate": 13.74,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2020-11-30T07:39:24Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "Y",
+                                "loanMandatoryFundingDatetime": "2020-06-25T05:59:19Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "f9ee6c00-a1c1-442d-8fd0-1d85aee1bed9",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Gorczany-Rippin",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Oklahoma City",
+                                                "stateUspsCode": "OK",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 15,
+                                "loanAmt": 66,
+                                "interestRate": 1.5,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2020-12-13T23:04:34Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-10-02T22:41:33Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "64457d1b-c52b-496c-ad0f-490d59943046",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Hintz and Sons",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Des Moines",
+                                                "stateUspsCode": "IA",
+                                                "countyName": "Fairfax",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 16,
+                                "loanAmt": 56,
+                                "interestRate": 3.73,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2020-05-21T17:08:32Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "Y",
+                                "loanMandatoryFundingDatetime": "2020-11-18T03:03:36Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "f3a542a5-afb0-46ec-97b4-f42792338c2d",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Howell, Reynolds and Will",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Wilmington",
+                                                "stateUspsCode": "DE",
+                                                "countyName": "Fairfax",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 17,
+                                "loanAmt": 51,
+                                "interestRate": 18.7,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2021-01-14T19:21:19Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "Y",
+                                "loanMandatoryFundingDatetime": "2020-06-10T00:17:06Z",
+                                "intentType": "HFI",
+                                "properties": [
+                                    {
+                                        "propertyId": "ef6e3b40-c97d-4e67-b2c2-33f6c747c27d",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Haley and Sons",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Pittsburgh",
+                                                "stateUspsCode": "PA",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 18,
+                                "loanAmt": 19,
+                                "interestRate": 13.8,
+                                "loanInterestRateStructureType": "fixed",
+                                "firstPmtDueDate": "2020-10-03T20:24:40Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-11-24T13:21:00Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "9101c0cf-3867-4ee3-93f0-7464672e6309",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Turcotte and Sons",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Chicago",
+                                                "stateUspsCode": "IL",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 19,
+                                "loanAmt": 43,
+                                "interestRate": 11.48,
+                                "loanInterestRateStructureType": "hybrid",
+                                "firstPmtDueDate": "2020-09-19T12:07:16Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-01-15T07:13:52Z",
+                                "intentType": "HFS",
+                                "properties": [
+                                    {
+                                        "propertyId": "22761682-4a5e-4224-8f9c-8e35104b4dfa",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "Larson and Sons",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Dayton",
+                                                "stateUspsCode": "OH",
+                                                "countyName": "Fairfax",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "freLoanId": 20,
+                                "loanAmt": 41,
+                                "interestRate": 1.56,
+                                "loanInterestRateStructureType": "floating",
+                                "firstPmtDueDate": "2020-12-15T08:02:38Z",
+                                "pmtTermCount": 1.0,
+                                "loanSecuritizationEligibilityInd": "N",
+                                "loanMandatoryFundingDatetime": "2020-10-26T03:19:22Z",
+                                "intentType": "HFI",
+                                "properties": [
+                                    {
+                                        "propertyId": "17fa609e-530a-4b4f-90f6-de325bcc75f4",
+                                        "masteredPptyId": 1,
+                                        "freLoanId": 1,
+                                        "pptyName": "McClure, Keebler and Rippin",
+                                        "propertyAddresses": [
+                                            {
+                                                "cityName": "Visalia",
+                                                "stateUspsCode": "CA",
+                                                "countyName": "Bergen",
+                                                "metropolitanStatisticalAreaName": "Test"
+                                            }
+                                        ],
+                                        "propertyAssessments": [
+                                            {}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
