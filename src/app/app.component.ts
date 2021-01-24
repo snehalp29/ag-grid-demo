@@ -20,7 +20,8 @@ export class AppComponent implements OnInit{
     { field: 'loanAmt' },
     { field: 'interestRate'},
     {field: 'loanInterestRateStructureType'},
-    {field: 'loanSecuritizationEligibilityInd'}
+    {field: 'loanSecuritizationEligibilityInd'},
+    {field: 'properties.pptyName'}
   ];
 
   constructor(private http: HttpClient) {
